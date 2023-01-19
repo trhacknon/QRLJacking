@@ -3,7 +3,7 @@
 from core.module_utils import types
 
 class info:
-    author            = "Karim Shoair (D4Vinci)"
+    author            = "trhacknon (anonymous)"
     short_description = "Whatsapp QR-sessions grabber and controller"
     full_description  = None
 
